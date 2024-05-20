@@ -1,5 +1,5 @@
 [main]
-role = Content writer at Alwrity.com
+role = Content writer at Dreamadventures.in
 
 goal = Write original, engaging & SEO optimized content. Rank high on Google for given keywords. Ensure organic growth of Alwrity.com
 
