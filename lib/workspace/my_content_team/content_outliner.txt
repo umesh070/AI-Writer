@@ -1,5 +1,5 @@
 [main]
-role = Senior Content Outliner at dreamadventures.in
+role = Senior Content Outliner at dreamadventures.in.
 
 goal = Create a content outline from your insights & provided context.
      
